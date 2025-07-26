@@ -55,7 +55,7 @@ or rename the file `.env_template` to `.env` and put the value inside the `.env`
 2. Install dependencies (should be already done when using a GitHub codespace)
 
 ```
-python -m pip -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Workshop contents
